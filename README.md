@@ -1,5 +1,7 @@
 # Webmon
 
+![Pok3mon](https://wallpapercave.com/wp/wp2860854.jpg)
+
 ## What is it?
 A P0k3m0n like inspired web game, that can be played on your internet browser, made with p5.js.
 
