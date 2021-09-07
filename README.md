@@ -13,7 +13,6 @@ To play you need to open the web console your __browser's developer console__. T
 
 ### Links
 ---
-
-[PLAY](https://preview.p5js.org/DeathNotePad/present/utKTxnODO) or [EDIT](https://editor.p5js.org/DeathNotePad/sketches/utKTxnODO)
+[![Play_img](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.freeiconspng.com%2Fuploads%2Fstart-button-blue-png-25.png&f=1&nofb=1)](https://editor.p5js.org/DeathNotePad/sketches/utKTxnODO)
 
 ---
