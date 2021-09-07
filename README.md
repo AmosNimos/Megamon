@@ -14,7 +14,4 @@ A P0k3m0n like inspired web game, that can be played on your internet browser, m
 ### Links
 ---
 [![Play_img](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.freeiconspng.com%2Fuploads%2Fstart-button-blue-png-25.png&f=1&nofb=1)](https://editor.p5js.org/DeathNotePad/sketches/utKTxnODO)
-
-For __FullScreen__ click [here](https://editor.p5js.org/DeathNotePad/full/utKTxnODO) (Don't forget to activate the __browser's developer console__), then press the - key.
-
 ---
