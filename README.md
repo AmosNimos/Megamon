@@ -14,7 +14,7 @@ You can also use the default __dev console__ provided by the [p5js](https://p5js
 
 > To cheat (activate debug/dev mode) press the = key, if that make you happy, have fun.
 
-> Feel free to edit the code as you like and even do a merge request (MR) if you want i am open to suggestion and fix to improve this game.
+> Feel free to edit the code as you like and even do a merge request (MR) if you want, i am open to suggestion and fix to improve this game.
 ### Links
 ---
 [![Play_img](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.freeiconspng.com%2Fuploads%2Fstart-button-blue-png-25.png&f=1&nofb=1)](https://editor.p5js.org/DeathNotePad/sketches/utKTxnODO)
