@@ -12,7 +12,7 @@ You can also use the default __dev console__ provided by the [p5js](https://p5js
 
 > To exit the starter town simply take the character past the edge of the game screen, by pressing the directional arrow key multiple times.
 
-> To cheat (activate debug/dev mode) press the = key, if that make you happy, and that's how you wish to play, who am i to stop you, have fun.
+> To cheat (activate debug/dev mode) press the = key, if that make you happy, have fun.
 
 > Feel free to edit the code as you like and even do a merge request (MR) if you want i am open to suggestion and fix to improve this game.
 ### Links
