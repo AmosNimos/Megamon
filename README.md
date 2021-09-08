@@ -21,3 +21,5 @@ You can also use the default __dev console__ provided by the [p5js](https://p5js
 [![Play_img](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.freeiconspng.com%2Fuploads%2Fstart-button-blue-png-25.png&f=1&nofb=1)](https://editor.p5js.org/DeathNotePad/sketches/utKTxnODO)
 Also on [Itch.io](https://amosnimos.itch.io/webmon)
 ---
+
+> Every non free & open assets/variable name use in this project are only temporary place older and will be replace as soon as possible if you whant to contribute art, music, sounds please do so.
