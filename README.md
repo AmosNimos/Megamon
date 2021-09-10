@@ -12,11 +12,7 @@ An open source javascript P0k3m0n like inspired web game, that can be played on 
 You can also use the default __dev console__ provided by the [p5js](https://p5js.org/download/support.html) editor.
 > How to open the [browser's developer console](https://balsamiq.com/support/faqs/browserconsole/#:~:text=To%20open%20the%20developer%20console,(on%20Windows%2FLinux).)?
 
-
-> Screen shot of the game console.
-
 ![Screenshot](webmon.PNG)
-
 
 > To exit the starter town simply take the character past the edge of the game screen, by pressing the directional arrow key multiple times.
 
