@@ -2,10 +2,12 @@
 
 ![Monster_sprite_by_Georg Eckert_/_limbusdev](https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/128x128/3_2.png?raw=true)
 
-🎵 Webmon javascript monster, within your browser, Webmon generated creature, what an adventure, Webmon discover them all!
+🎵 Megamon javascript monster, within your browser, Megamon generated creature, what an adventure, Megamon Megamophose, Megamon discover them all!
 
-## What is Webmon?
+## What is Megamon?
 An open source javascript P0k3m0n like inspired web game, that can be played on your internet browser.
+> You are a young Megamon trainor from Mega-town city you travel around the Mega-town forest to discover new spiecies of Megamon and battle them to see if your are worthy to catch them with Megaball. When battling your Megamon will gain experience and eventually Megamorph into a new diferrent, more powerful Megamon with new abillitys. don't forget to go to the mega-shop to buy mega-potion to heal your megamon hp and healp the mrecover from cripling condition.
+
 
 ![Screenshot](batttle.png)
 
