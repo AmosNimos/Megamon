@@ -1,6 +1,7 @@
 # Webmon
 
-![Pok3mon](http://i.imgur.com/hCB5o.jpg)
+![Webmon](https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/128x128/3_2.png?raw=true)
+🎵 Song: Webmon javascript monster, within your browser, Webmon generated creature, what an adventure, Webmon discover them all."
 
 ## What is it?
 A P0k3m0n like inspired web game, that can be played on your internet browser.
