@@ -1,6 +1,6 @@
 # Webmon
 
-![Webmon](https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/128x128/3_2.png?raw=true)
+![Monster_sprite](https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/128x128/3_2.png?raw=true)
 
 🎵 Webmon javascript monster, within your browser, Webmon generated creature, what an adventure, Webmon discover them all!
 
@@ -11,6 +11,9 @@ An open source javascript P0k3m0n like inspired web game, that can be played on 
 ⚠️ To play you need to open the web console your __browser's developer console__. Their most of the game information will be displayed.
 You can also use the default __dev console__ provided by the [p5js](https://p5js.org/download/support.html) editor.
 > How to open the [browser's developer console](https://balsamiq.com/support/faqs/browserconsole/#:~:text=To%20open%20the%20developer%20console,(on%20Windows%2FLinux).)?
+
+> Screen shot of the game console.
+![Screenshot](webmon.PNG)
 
 > To exit the starter town simply take the character past the edge of the game screen, by pressing the directional arrow key multiple times.
 
