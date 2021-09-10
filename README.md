@@ -7,7 +7,7 @@
 ## What is Webmon?
 An open source javascript P0k3m0n like inspired web game, that can be played on your internet browser.
 
-![Screenshot](battle.png)
+![Screenshot](batttle.png)
 
 ## How to play?
 ⚠️ To play you need to open the web console your __browser's developer console__. Their most of the game information will be displayed.
