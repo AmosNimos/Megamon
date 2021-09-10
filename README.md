@@ -1,4 +1,4 @@
-# Webmon
+# Megamon
 
 ![Monster_sprite_by_Georg Eckert_/_limbusdev](https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/128x128/3_2.png?raw=true)
 
