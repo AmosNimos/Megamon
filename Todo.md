@@ -1,0 +1,6 @@
+- Nerf the megamon so that they won't become unbeatable the more they level-up.
+- Limit the amounth of megamorphosys stages per megamon,
+- Add more items (Maybe have a potion that only cure debuff and another that only give hp, and why not better megaball with a better catch rate.)
+- open source free music
+- change sprite for open source free sprite
+- add monster sprite when figthing, (might be hard sicne the monster are supose to all be unique. maybe if each body part was assignated a code that would be generated?)
