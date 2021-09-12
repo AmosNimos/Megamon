@@ -31,4 +31,6 @@ Also on [Itch.io](https://amosnimos.itch.io/webmon)
 
 > Every __non free/open__ assets use in this project, are only temporary place older and will be replace as soon as possible, if you whant to contribute art, music, sounds to this project, please do so, I also need to replace every mention of the word P0kemon in the code and in the game to be replace with Codemon or somthing else i am not decided on the final game of this project. p5mon? jsmon? javamon? 
 
-> NOTE: I may create my own artwork for the game eventually but until then, I DISCOVERED THIS AMAZING PROJECT https://github.com/limbusdev/guardian_monsters_artwork ! so all art will be taken from their! (eventually).
+> open art i found that __could__ be used for this project
+> https://www.deviantart.com/rubenartworks/art/Semilegendary-Fakemon-Gardion-399903833
+> https://github.com/limbusdev/guardian_monsters_artwork
