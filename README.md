@@ -27,8 +27,8 @@ You can also use the default __dev console__ provided by the [p5js](https://p5js
 
 ### Links
 ---
-[![Play_img](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.freeiconspng.com%2Fuploads%2Fstart-button-blue-png-25.png&f=1&nofb=1)](https://editor.p5js.org/DeathNotePad/sketches/utKTxnODO)
-Also on [Itch.io](https://amosnimos.itch.io/webmon)
+[![Play_img](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.freeiconspng.com%2Fuploads%2Fstart-button-blue-png-25.png&f=1&nofb=1)](https://editor.p5js.org/DeathNotePad/sketches/utKTxnODO) within p5.js online editor, [fullscreen](https://preview.p5js.org/DeathNotePad/present/utKTxnODO)(no editor) or
+also on [Itch.io](https://amosnimos.itch.io/webmon)(no editor)
 ---
 
 > Every __non free/open__ assets use in this project, are only temporary place older and will be replace as soon as possible, if you whant to contribute art, music, sounds to this project, please do so, I also need to replace every mention of the word P0kemon in the code and in the game to be replace with Codemon or somthing else i am not decided on the final game of this project. p5mon? jsmon? javamon? 
