@@ -1,7 +1,7 @@
 ![Megamon_logo](Megamon_2.png) 
 ![Monster_sprite_by_Georg Eckert_/_limbusdev](https://github.com/limbusdev/guardian_monsters_artwork/blob/master/sprites/monsters/128x128/3_2.png?raw=true)
 
-🎵 Megamon javascript monster, within your browser, Megamon generated creature, what an adventure, Megamon Megamophose, Megamon discover them all!
+🎵 Megamon javascript monster, within your browser, Megamon generated artificial creature that Megamoph, Megamon discover them all!
 
 ## What is Megamon?
 An open source javascript P0k3m0n like inspired web game, that can be played on your internet browser.
